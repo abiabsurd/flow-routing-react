@@ -2,7 +2,7 @@ Package.describe({
   name: 'abiabsurd:flow-routing-react',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: 'Fork of useraccounts:flow-routing for use with React only.',
+  summary: 'Fork of useraccounts:flow-routing Meteor package for use with React only.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/abiabsurd/flow-routing-react.git',
   // By default, Meteor will default to using README.md for documentation.
